@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+#title{
+    margin: 0 90px 0 90px;
+}
+.nav-item{
+    padding-right: 10px;
+
+}
+
+
+
+.impMsg{
+    background-color: yellow;
+    
+}
+
+#feature{
+    padding: 60px;
+    margin: 0 90px 0 90px;
+
+
+}
+.feature_box{
+    text-align: center;
+}
+
+
+
+
+.feature_box ,h6 {
+    padding-top: 20px;
+    
+}
+
+
+
+#mid{
+    margin: 0 90px 0 90px;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+ #mid .mid_content{
+    text-align:center;
+    
+}
+
+
+.slide-image{
+ margin-right: 20px;
+}
+
+#footer{
+    margin: 0 90px 0 90px;
+
+}
+
+@media (max-width:500px){
+    #feature {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 30px;
+    }
+    #mid{
+        margin: 0 5px 0 5px;  
+}
+
+ #footer{
+    margin: 0 5px 0 5px;  
+    font-size: small;
+
+ }
+ #title{
+    margin: 0 5px 0 5px;
+}
+.box{
+    height: 70%;
+    width: 65%;
+}
+
+}
+
+#footer b{
+    font-size: large;
+}
+
+.icon_section #icon1{
+padding-right: 20px;
+margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
